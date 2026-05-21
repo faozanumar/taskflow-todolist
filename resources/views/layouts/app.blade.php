@@ -189,12 +189,12 @@
         .stat-card .stat-number {
             font-family: var(--font-display);
             font-size: 4rem;
-            font-weight: 600;
+            font-weight: 650;
             line-height: 1;
         }
 
         .stat-card .stat-label {
-            font-size: 0.78rem;
+            font-size: 1rem;
             color: var(--text-muted);
             font-weight: 500;
             text-transform: uppercase;
